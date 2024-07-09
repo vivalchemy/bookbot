@@ -3,7 +3,7 @@
 BookBot is a python program that counts the number of words and the total
 number of time a character occurs in a book
 
-![Book bot demo](./assets/demo.webm)
+![Book bot demo](./assets/demo.gif)
 
 ## Installation
 
