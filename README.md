@@ -1,2 +1,1 @@
-# bookbot
-following a tutorial
+BookBot is my first project!
